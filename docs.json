@@ -14,7 +14,7 @@
         "tab": "First steps",
         "groups": [
           {
-            "group": "",
+            "group": "First steps",
             "pages": [
               "index",
               "quickstart",
