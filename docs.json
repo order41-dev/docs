@@ -14,11 +14,11 @@
         "tab": "First steps",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Basics",
             "pages": [
               "Sign in",
-              "quickstart",
-              "development"
+              "Navigation",
+              "Account setup"
             ]
           }
         ]
